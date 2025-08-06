@@ -64,6 +64,8 @@ Once you have completed the workflow:
 - Use the probabilistic loss maps for monitoring, reporting, or further analysis.  
 - Integrate results with additional spatial datasets for context-specific applications.
 
+---
+
 ## Notes:
 
 - Feel free to submit issues or pull requests for improvements to documentation.
